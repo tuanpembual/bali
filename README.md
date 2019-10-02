@@ -1,10 +1,8 @@
 # Slide
 
 - Cover dan judul
-
 Reliable Deployments with Kubernetes and Istio
 Implement blue/green deployments and canary roll outs. 
-
 - Perkenalan (copy from)
 - Perkenalan Kubernetes
 - Perkenalan Istio
@@ -13,14 +11,14 @@ Implement blue/green deployments and canary roll outs.
 - Gambar gif bagaimana proses ini terjadi
 - Praktek | buat gist
 - Mesin VM 1. 2core2gb
-* install docker, tanpa sudo
-* install kubectl
-* install minikube
-* install istio
-* buat delpoyment
-* buat rilis baru
-* setup load balancer
-* all deployed
+	* install docker, tanpa sudo
+	* install kubectl
+	* install minikube
+	* install istio
+	* buat delpoyment
+	* buat rilis baru
+	* setup load balancer
+	* all deployed
 - QA
 
 ## Prepare Tools
