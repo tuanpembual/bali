@@ -122,13 +122,7 @@ while : ;do export GREP_COLOR='1;33';curl -s  172.31.25.31:31380 \
 
 
 ## How to deploy Green and Blue Istio on K8s
-
-Workshop
-
-Kubernetes sudah menjadi hal yg biasa
-Istio adalah
-
-Realible Deployments with Kubernetes and Istio
+### Realible Deployments with Kubernetes and Istio
 
 When deployment or release of product. DevOps team have responsible to make no down time on process of deployment. For now, we have many ways and many tools to make it happen.
 
@@ -147,8 +141,6 @@ Audience don’t need to have any prerequisites to explore this scenario except 
 There are four steps; Installing Minikube, Installing and verifying Istio, deploying two versions of the same app, and finally configuring the services for blue/green deployments. We will use two simple, pre-built container images that represent blue (V1) and green (V2) releases.
 
 ### FROM 
-https://www.radishlogic.com/kubernetes/running-minikube-in-aws-ec2-ubuntu/
-https://thenewstack.io/tutorial-blue-green-deployments-with-kubernetes-and-istio/
-https://cheatsheet.dennyzhang.com/cheatsheet-minikube-a4
-
-
+* https://www.radishlogic.com/kubernetes/running-minikube-in-aws-ec2-ubuntu/
+* https://thenewstack.io/tutorial-blue-green-deployments-with-kubernetes-and-istio/
+* https://cheatsheet.dennyzhang.com/cheatsheet-minikube-a4
