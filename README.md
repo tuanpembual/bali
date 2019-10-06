@@ -74,6 +74,7 @@ kubectl port-forward --address 0.0.0.0 deployment/myapp-v2 8081:80
 
 create gateway
 ```
+vim app-gateway.yaml
 kubectl apply -f app-gateway.yaml
 ```
 
